@@ -3,6 +3,6 @@ def square_array(array)
     total == number ** 2
 
   end
-  return total 
+  return total
 
 end
